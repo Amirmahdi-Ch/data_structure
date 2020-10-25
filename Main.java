@@ -5,7 +5,6 @@ public class Main{
     public static void main(String[] args) {
         int sparseMatrix[][]
                 = {
-
                 {6, 5, 3, 7, 4},
                 {0, 8, 5, 7, 2},
                 {0, 0, 9, 10, 1},
